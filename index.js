@@ -2,6 +2,10 @@
 //   line.push(name);
 //   return `Welcome, ${name}. You are number ${line.length} in line.`;
 // }
+function takeANumber (line) {
+  
+}
+
 
 function nowServing(line) {
   if (!line.length) {
